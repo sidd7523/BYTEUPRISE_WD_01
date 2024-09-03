@@ -1,1 +1,1 @@
-Byteuprise Web Dev project1:  Simple Stopwatch using HTML,CSS and Javascript 
+Byteuprise Web Dev project1:  Simple Stopwatch using HTMLand CSS
